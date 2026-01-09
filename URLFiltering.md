@@ -8,6 +8,14 @@
 `((( url_category_list contains 'copyright-infringement' ) or ( url_category_list contains 'cryptocurrency' ) or ( url_category_list contains 'newly-registered-domain' ) or ( url_category_list contains 'peer-to-peer' ) or ( url_category_list contains 'proxy-avoidance-and-anonymizers' )) and (! url contains 'icloud.com/' ))`
 
 # Some ones to watch
+A massive data loss risk (just need one uploaded password to yourfreeconverter.xyz).
+
 `( url_category_list contains 'file-converter' )`
+
+Threat actors are known to use otherwise legtimate remote access tools for very malicious purposes.
+
 `( url_category_list contains 'remote-access' )`
+
+Into the unknown!
+
 `( url_category_list contains 'unknown' )`
